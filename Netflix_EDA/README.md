@@ -14,5 +14,4 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Google Colab
 
 ## Files
 
-- `netflix_titles.csv` – Dataset
 - `24ADI204_Netflix_EDA_30_Plots.ipynb` – EDA Notebook
